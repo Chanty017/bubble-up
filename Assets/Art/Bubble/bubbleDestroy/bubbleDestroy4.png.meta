@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 2368e48b73b804df8a8f4e38d8cb4324
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5677318893619784358
+    second: bubbleDestroy4_0
+  - first:
+      213: -7609189516805744432
+    second: bubbleDestroy4_1
+  - first:
+      213: 8485352354340099350
+    second: bubbleDestroy4_2
+  - first:
+      213: -8389403439034424338
+    second: bubbleDestroy4_3
+  - first:
+      213: 3077128966998946584
+    second: bubbleDestroy4_4
+  - first:
+      213: 7285797423235191811
+    second: bubbleDestroy4_5
+  - first:
+      213: 9091035470616345488
+    second: bubbleDestroy4_6
+  - first:
+      213: 8302864820365077090
+    second: bubbleDestroy4_7
+  - first:
+      213: -8399139919246226967
+    second: bubbleDestroy4_8
+  - first:
+      213: 4235748365682183779
+    second: bubbleDestroy4_9
+  - first:
+      213: 4180908350948081836
+    second: bubbleDestroy4_10
+  - first:
+      213: 1358051784897035253
+    second: bubbleDestroy4_11
+  - first:
+      213: 5003525896755486740
+    second: bubbleDestroy4_12
+  - first:
+      213: 1579060616095025341
+    second: bubbleDestroy4_13
+  - first:
+      213: -9144924555871767002
+    second: bubbleDestroy4_14
+  - first:
+      213: -3844205835924947437
+    second: bubbleDestroy4_15
+  - first:
+      213: -3175818789220772343
+    second: bubbleDestroy4_16
+  - first:
+      213: -4448357919464133967
+    second: bubbleDestroy4_17
+  - first:
+      213: -5335742838553623121
+    second: bubbleDestroy4_18
+  - first:
+      213: -5579001907512756786
+    second: bubbleDestroy4_19
+  - first:
+      213: -8215990436587393769
+    second: bubbleDestroy4_20
+  - first:
+      213: -8213151548669679123
+    second: bubbleDestroy4_21
+  - first:
+      213: 5464294194811752994
+    second: bubbleDestroy4_22
+  - first:
+      213: 8751629423959351128
+    second: bubbleDestroy4_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bubbleDestroy4_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 539
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55dd25cb8c1631b0800000000000000
+      internalID: -5677318893619784358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 539
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8da2e137ab66690800000000000000
+      internalID: -7609189516805744432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 519
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615577a420702c570800000000000000
+      internalID: 8485352354340099350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 539
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3a9ea650ad29b80800000000000000
+      internalID: -8389403439034424338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_4
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 519
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813790efd7824ba20800000000000000
+      internalID: 3077128966998946584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 449
+        width: 62
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304d365972a5c1560800000000000000
+      internalID: 7285797423235191811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 499
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b309a1898d92e70800000000000000
+      internalID: 9091035470616345488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_7
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 499
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aa2fb4093b93370800000000000000
+      internalID: 8302864820365077090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 429
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e986867eb2407b80800000000000000
+      internalID: -8399139919246226967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_9
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 429
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e8d6652b668ca30800000000000000
+      internalID: 4235748365682183779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 399
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca089b86ef1950a30800000000000000
+      internalID: 4180908350948081836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 459
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb7f5137e4c8d210800000000000000
+      internalID: 1358051784897035253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_12
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 409
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41024941b48107540800000000000000
+      internalID: 5003525896755486740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 309
+        width: 22
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8472d9343f9e510800000000000000
+      internalID: 1579060616095025341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 339
+        width: 12
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626348d7193b61180800000000000000
+      internalID: -9144924555871767002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_15
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 309
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb532e823a6aac0800000000000000
+      internalID: -3844205835924947437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_16
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 189
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9061c7d23a93de3d0800000000000000
+      internalID: -3175818789220772343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 269
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba6b886a024442c0800000000000000
+      internalID: -4448357919464133967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_18
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 249
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa54d278822a3f5b0800000000000000
+      internalID: -5335742838553623121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 199
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5b97de2576392b0800000000000000
+      internalID: -5579001907512756786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 159
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71da3356a30fafd80800000000000000
+      internalID: -8215990436587393769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_21
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 89
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9281f7e26050e80800000000000000
+      internalID: -8213151548669679123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 149
+        width: 52
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222dbfd7e9215db40800000000000000
+      internalID: 5464294194811752994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bubbleDestroy4_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 69
+        width: 142
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f14fcc798047970800000000000000
+      internalID: 8751629423959351128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bubbleDestroy4_0: -5677318893619784358
+      bubbleDestroy4_1: -7609189516805744432
+      bubbleDestroy4_10: 4180908350948081836
+      bubbleDestroy4_11: 1358051784897035253
+      bubbleDestroy4_12: 5003525896755486740
+      bubbleDestroy4_13: 1579060616095025341
+      bubbleDestroy4_14: -9144924555871767002
+      bubbleDestroy4_15: -3844205835924947437
+      bubbleDestroy4_16: -3175818789220772343
+      bubbleDestroy4_17: -4448357919464133967
+      bubbleDestroy4_18: -5335742838553623121
+      bubbleDestroy4_19: -5579001907512756786
+      bubbleDestroy4_2: 8485352354340099350
+      bubbleDestroy4_20: -8215990436587393769
+      bubbleDestroy4_21: -8213151548669679123
+      bubbleDestroy4_22: 5464294194811752994
+      bubbleDestroy4_23: 8751629423959351128
+      bubbleDestroy4_3: -8389403439034424338
+      bubbleDestroy4_4: 3077128966998946584
+      bubbleDestroy4_5: 7285797423235191811
+      bubbleDestroy4_6: 9091035470616345488
+      bubbleDestroy4_7: 8302864820365077090
+      bubbleDestroy4_8: -8399139919246226967
+      bubbleDestroy4_9: 4235748365682183779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
